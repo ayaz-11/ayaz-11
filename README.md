@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ayaz-11
+- 👀 I’m interested in bot develping
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on on github
